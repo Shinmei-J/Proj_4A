@@ -18,7 +18,7 @@ Things that I did, I created an app where you can create a user and when you log
 
 ## First screen:
 
--This is the first screen, where you have to login in order to have access of what's inside
+- This is the first screen, where you have to login in order to have access of what's inside
 
 
 ![1](https://user-images.githubusercontent.com/75081602/103382243-8e991100-4aee-11eb-8d15-f8c8a965c052.PNG)
@@ -32,14 +32,14 @@ Things that I did, I created an app where you can create a user and when you log
 So you have to click on create account
 
 ## Sign up page:
--This is the create account, the login button is not here anymore and there will be errors if the user is not an email / the email already exists or no email/password is typed in.
+- This is the create account, the login button is not here anymore and there will be errors if the user is not an email / the email already exists or no email/password is typed in.
 
 
 ![22](https://user-images.githubusercontent.com/75081602/103382548-c3f22e80-4aef-11eb-818e-f1882127d58f.PNG)
 
 
 ## Screen with the list displayed:
--This is the last screen when you successfully log in, you have the list of the Genshin Impact game's characters
+- This is the last screen when you successfully log in, you have the list of the Genshin Impact game's characters
 
 
 ![5](https://user-images.githubusercontent.com/75081602/103382710-42e76700-4af0-11eb-821f-b9bbc8187cfd.PNG)
